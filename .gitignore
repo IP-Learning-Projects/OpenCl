@@ -1,0 +1,12 @@
+
+Template/OpenCl/.vs/*
+Template/OpenCl/OpenCl/CL/.vscode/*
+Template/OpenCl/OpenCl/Debug/*
+Template/OpenCl/OpenCl/x64/Debug/*
+Template/OpenCl/x64/Debug/*
+
+SquareMatrixMultiplication/OpenCl/.vs/*
+SquareMatrixMultiplication/OpenCl/OpenCl/CL/.vscode/*
+SquareMatrixMultiplication/OpenCl/OpenCl/Debug/*
+SquareMatrixMultiplication/OpenCl/OpenCl/x64/Debug/*
+SquareMatrixMultiplication/OpenCl/x64/Debug/*
