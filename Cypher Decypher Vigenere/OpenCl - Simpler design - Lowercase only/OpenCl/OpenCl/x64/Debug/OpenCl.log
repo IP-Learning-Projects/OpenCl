@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tedy\desktop\study\github\opencl\cypher decypher viginere - lowercase only\opencl\opencl\main.cpp(50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\tedy\desktop\study\github\opencl\cypher decypher viginere - lowercase only\opencl\opencl\main.cpp(51): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OpenCl.vcxproj -> C:\Users\Tedy\Desktop\study\github\OpenCl\Cypher Decypher Viginere - Lowercase only\OpenCl\x64\Debug\OpenCl.exe
