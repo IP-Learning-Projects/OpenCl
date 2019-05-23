@@ -1,12 +1,18 @@
-
 Template/OpenCl/.vs/*
 Template/OpenCl/OpenCl/CL/.vscode/*
 Template/OpenCl/OpenCl/Debug/*
 Template/OpenCl/OpenCl/x64/Debug/*
 Template/OpenCl/x64/Debug/*
 
-SquareMatrixMultiplication/OpenCl/.vs/*
-SquareMatrixMultiplication/OpenCl/OpenCl/CL/.vscode/*
-SquareMatrixMultiplication/OpenCl/OpenCl/Debug/*
-SquareMatrixMultiplication/OpenCl/OpenCl/x64/Debug/*
-SquareMatrixMultiplication/OpenCl/x64/Debug/*
+Square Matrix Multiplication/OpenCl/.vs/*
+Square Matrix Multiplication/OpenCl/OpenCl/CL/.vscode/*
+Square Matrix Multiplication/OpenCl/OpenCl/Debug/*
+Square Matrix Multiplication/OpenCl/OpenCl/x64/Debug/*
+Square Matrix Multiplication/OpenCl/x64/Debug/*
+
+Cypher Decypher Viginere/OpenCl/.vs/OpenCl/v15/ipch/AutoPCH/73863efe0096475e/SOURCE.ipch
+Cypher Decypher Viginere/OpenCl/.vs/*
+Cypher Decypher Viginere/OpenCl/OpenCl/CL/.vscode/*
+Cypher Decypher Viginere/OpenCl/OpenCl/Debug/*
+Cypher Decypher Viginere/OpenCl/OpenCl/x64/Debug/*
+Cypher Decypher Viginere/OpenCl/x64/Debug/*
