@@ -17,8 +17,15 @@ Cypher Decypher Vigenere/OpenCl/OpenCl/Debug/*
 Cypher Decypher Vigenere/OpenCl/OpenCl/x64/Debug/*
 Cypher Decypher Vigenere/OpenCl/x64/Debug/*
 
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/.vs/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/CL/.vscode/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/Debug/*
+Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/.vs/*
+Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/CL/.vscode/*
+Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/Debug/*
+Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/x64/Debug/*
 Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/x64/Debug/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/x64/Debug/*
+
+Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/.vs/*
+Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/CL/.vscode/*
+Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/Debug/*
+Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/x64/Debug/*
+Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/x64/Debug/*
+
