@@ -1,31 +1,7 @@
+**/x64/*
+**/.vs/*
+**/Debug/*
+**/.vscode/*
 
-Template/OpenCl/.vs/*
-Template/OpenCl/OpenCl/CL/.vscode/*
-Template/OpenCl/OpenCl/Debug/*
-Template/OpenCl/OpenCl/x64/Debug/*
-Template/OpenCl/x64/Debug/*
 
-Square Matrix Multiplication/OpenCl/.vs/*
-Square Matrix Multiplication/OpenCl/OpenCl/CL/.vscode/*
-Square Matrix Multiplication/OpenCl/OpenCl/Debug/*
-Square Matrix Multiplication/OpenCl/OpenCl/x64/Debug/*
-Square Matrix Multiplication/OpenCl/x64/Debug/*
-
-Cypher Decypher Vigenere/OpenCl/.vs/*
-Cypher Decypher Vigenere/OpenCl/OpenCl/CL/.vscode/*
-Cypher Decypher Vigenere/OpenCl/OpenCl/Debug/*
-Cypher Decypher Vigenere/OpenCl/OpenCl/x64/Debug/*
-Cypher Decypher Vigenere/OpenCl/x64/Debug/*
-
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/.vs/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/CL/.vscode/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/Debug/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/OpenCl/x64/Debug/*
-Cypher Decypher Vigenere/OpenCl - Simpler design - Lowercase only/OpenCl/x64/Debug/*
-
-Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/.vs/*
-Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/CL/.vscode/*
-Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/Debug/*
-Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/OpenCl/x64/Debug/*
-Cypher Decypher Variant Beaufort/OpenCl -  Lowercase only/OpenCl/x64/Debug/*
 
